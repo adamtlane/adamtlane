@@ -19,8 +19,8 @@ This page collects my graduate research, the AI systems I've built, and a person
 | [Generative AI: RAG and Agents](https://github.com/adamtlane/genai-rag-agents) | An NIH grant proposal generator with LLM self evaluation and human review, a LangGraph email agent, and RAG assistants with answer evaluation and multimodal retrieval. |
 | [TextWave](https://github.com/adamtlane/textwave-rag-retrieval) | RAG retrieval and question answering. Compared chunking, FAISS indexes, and rerankers, reaching an MRR of 0.83. |
 | [SecureBank](https://github.com/adamtlane/securebank-fraud-detection) | Fraud detection service with a Flask API in Docker. On held out data it flags fraud with 0.95 precision and 0.54 recall at a 0.98 ROC AUC. |
-| [TechTrack](https://github.com/adamtlane/techtrack-object-detection) | Streaming YOLO object detection for logistics scenes, with non-maximum suppression, mAP evaluation, and hard negative mining. |
-| [IronClad](https://github.com/adamtlane/ironclad-face-retrieval) | Face identification with FaceNet embeddings and FAISS indexes, comparing models, index types, and gallery sizes. |
+| [TechTrack](https://github.com/adamtlane/techtrack-object-detection) | Streaming YOLO object detection for logistics scenes, with non-maximum suppression, hard negative mining, and a measured 0.60 mAP at IoU 0.5. |
+| [IronClad](https://github.com/adamtlane/ironclad-face-retrieval) | Face identification with FaceNet embeddings and FAISS indexes. Correcting the face preprocessing raised top 1 accuracy from 51 to 93 percent. |
 
 ## Personal
 
