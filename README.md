@@ -2,7 +2,7 @@
 
 Engineer working across applied machine learning, software, and systems engineering in defense and government contracting. I'm completing a Master of Engineering in Artificial Intelligence at Johns Hopkins University (May 2027), with a background in physics and mathematics.
 
-This page collects my graduate research, the AI systems I've built, and a personal project.
+This page collects my research, the AI systems I've built, and a personal project.
 
 ## Research
 
@@ -11,6 +11,7 @@ This page collects my graduate research, the AI systems I've built, and a person
 | [Dempster-Shafer Sensor Fusion](https://github.com/adamtlane/dempster-shafer-sensor-fusion) | Evidence fusion for classifying air contacts from conflicting radar, imaging, and ESM reports. Dempster-Shafer improved calibration by up to 0.29 Brier over naive Bayes, and the best combination rule depended on how much conflict the model failed to anticipate. |
 | [Requirements Classification with Transformers](https://github.com/adamtlane/requirements-classification-transformers) | Fine-tuned DistilBERT against a TF-IDF baseline on 968 software requirements. Its advantage was small on familiar projects but grew to a significant 0.085 macro F1 on unseen ones. |
 | [Rigor Appraisal of Medical Imaging AI](https://github.com/adamtlane/imaging-ai-rigor-appraisal) | Appraised 15 imaging AI papers against a 13 item rigor checklist and tested whether an LLM could automate the appraisal (Cohen's kappa 0.686). Written for a NeurIPS 2026 workshop. |
+| [Missing Mass Profiles in Nonlinear General Relativity](https://github.com/adamtlane/missing-mass-disk-galaxies) | My undergraduate physics thesis at Old Dominion University. Derived an effective density model for disk galaxies in which gravitational self interaction stands in for dark matter, verified it numerically in Python, and compared the resulting missing mass profile with a Navarro-Frenk-White halo. |
 
 ## AI systems
 
